@@ -8,6 +8,17 @@
 
 An AI-powered system designed to accurately detect the precise moment a voicemail greeting ends. By combining energy-based silence detection with Large Language Model (LLM) intent analysis, this system determines the optimal timestamp to "drop" a pre-recorded message, avoiding awkward pauses or interruptions.
 
+## 📑 Navigation
+
+- [Overview](#-intelligent-voicemail-drop-detection-system)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Configuration](#️-configuration)
+- [Usage](#-usage)
+- [Logic & Workflow](#-logic--workflow)
+- [Results](#-results)
 
 
 ## 🚀 Features
